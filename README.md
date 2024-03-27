@@ -40,7 +40,8 @@ Next.js starter app with some sauce
 
 ### How It Works
 
-Search for all instances of `todo` and update to get started
+- Search for all instances of `todo` and update to get started
+- Run `npx husky init` to initialize husky
 <!-- TODO: Info about how it works here -->
 
 ### Why this project?
